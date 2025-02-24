@@ -1,0 +1,84 @@
+.box-image-text .image {
+  min-height: 190px;
+  max-height: 190px;
+}
+
+.box-image-text .image img {
+  max-height: 190px;
+  margin: auto;
+}
+
+.box-simple {
+  min-height: 230px;
+}
+
+/* 成员页面样式 */
+.members-page {
+  padding: 2rem 0;
+}
+
+.professor-card {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+  padding: 2rem;
+  margin-bottom: 3rem;
+  display: grid;
+  grid-template-columns: 200px 1fr;
+  gap: 2rem;
+}
+
+.professor-photo {
+  width: 100%;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 2rem;
+  padding: 1rem 0;
+}
+
+.member-card {
+  background: #fff;
+  border-radius: 8px;
+  padding: 1.5rem;
+  text-align: center;
+  transition: transform 0.3s ease;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.member-card:hover {
+  transform: translateY(-5px);
+}
+
+.member-photo {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: 0 auto 1rem;
+}
+
+.btn-details {
+  display: inline-block;
+  padding: 8px 20px;
+  background: #2c3e50;
+  color: white!important;
+  border-radius: 20px;
+  text-decoration: none;
+  transition: background 0.3s ease;
+}
+
+@media (max-width: 768px) {
+  .professor-card {
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+  
+  .team-grid {
+    grid-template-columns: 1fr;
+  }
+}

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Members on 石大文档分析与模式识别实验室</title>
+    <link>https://zyclab.vercel.app/members/</link>
+    <description>Recent content in Members on 石大文档分析与模式识别实验室</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://zyclab.vercel.app/members/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>郑煜辰</title>
+      <link>https://zyclab.vercel.app/members/zyc/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://zyclab.vercel.app/members/zyc/</guid>
+      <description>&lt;h3 id=&#34;个人简介&#34;&gt;个人简介&lt;/h3&gt;&#xA;&lt;p&gt;石河子大学信息科学与技术学院副教授，中国海洋大学计算机科学与技术学士（2010-2014）、计算机技术硕士（2014-2017），日本国立九州大学信息智能工程博士（2017-2020）。主要研究方向涵盖机器学习基础理论、文档智能分析、医学图像处理及生物信息学领域。担任多个国际会议程序委员及顶级期刊审稿人。&lt;/p&gt;&#xA;&lt;h3 id=&#34;研究方向&#34;&gt;研究方向&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;人工智能基础理论&lt;/strong&gt;：小样本学习、联邦学习、对抗防御&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;文档智能分析&lt;/strong&gt;：场景文本识别、古文档解析、手写签名鉴定&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;医学图像处理&lt;/strong&gt;：医学影像分割、样本不平衡学习&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;生物信息学&lt;/strong&gt;：蛋白质结构预测、药物发现、知识图谱构建&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;遥感与语音技术&lt;/strong&gt;：遥感目标检测、多语种语音识别&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;荣誉奖项&#34;&gt;荣誉奖项&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;第十六届自治区自然科学优秀学术论文一等奖（省部级）&lt;/li&gt;&#xA;&lt;li&gt;IEEE福冈分会2019年度优秀报告奖（国际学术奖）&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;代表性成果&#34;&gt;代表性成果&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;HTCSigNet: 混合Transformer-卷积签名验证网络（Pattern Recognition, CCF-B）&lt;/li&gt;&#xA;&lt;li&gt;SLFRM: 签名局部特征重建模块（ICCPR 2024, EI）&lt;/li&gt;&#xA;&lt;li&gt;PMDA: 跨域自适应分割原型匹配框架（ICME 2023, CCF-B）&lt;/li&gt;&#xA;&lt;li&gt;GDSNet: 地震滑坡自动识别双流网络（SCI一区Top）&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>John Smith</title>
+      <link>https://zyclab.vercel.app/members/visitor-john/</link>
+      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://zyclab.vercel.app/members/visitor-john/</guid>
+      <description>&lt;h3 id=&#34;合作研究&#34;&gt;合作研究&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;跨模态医学数据分析&lt;/li&gt;&#xA;&lt;li&gt;联邦学习在医疗领域的应用&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;个人简介&#34;&gt;个人简介&lt;/h3&gt;&#xA;&lt;p&gt;MIT计算机科学系副教授，主要研究方向&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>John Smith</title>
+      <link>https://zyclab.vercel.app/members/visitor-john1/</link>
+      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://zyclab.vercel.app/members/visitor-john1/</guid>
+      <description>&lt;h3 id=&#34;合作研究&#34;&gt;合作研究&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;跨模态医学数据分析&lt;/li&gt;&#xA;&lt;li&gt;联邦学习在医疗领域的应用&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;个人简介&#34;&gt;个人简介&lt;/h3&gt;&#xA;&lt;p&gt;MIT计算机科学系副教授，主要研究方向&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>John Smith</title>
+      <link>https://zyclab.vercel.app/members/visitor-john2/</link>
+      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://zyclab.vercel.app/members/visitor-john2/</guid>
+      <description>&lt;h3 id=&#34;合作研究&#34;&gt;合作研究&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;跨模态医学数据分析&lt;/li&gt;&#xA;&lt;li&gt;联邦学习在医疗领域的应用&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;个人简介&#34;&gt;个人简介&lt;/h3&gt;&#xA;&lt;p&gt;MIT计算机科学系副教授，主要研究方向&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>李四</title>
+      <link>https://zyclab.vercel.app/members/john-doe/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://zyclab.vercel.app/members/john-doe/</guid>
+      <description>&lt;h3 id=&#34;教育背景&#34;&gt;教育背景&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2017-2021 XX大学 计算机科学与技术 学士&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;研究课题&#34;&gt;研究课题&lt;/h3&gt;&#xA;&lt;p&gt;基于深度学习的MRI图像自动诊断系统研究&amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
