@@ -1,0 +1,29 @@
+<center>
+    <h1>李英伦</h1>
+    <div>
+        <span>
+            <img src="assets/phone-solid.svg" width="18px">
+            18896507657
+        </span>
+        ·
+        <span>
+            <img src="assets/envelope-solid.svg" width="18px">
+            24952995@qq.com
+        </span>
+    </div>
+</center>
+
+ ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
+ <img src="assets/liyinglun.jpg" width="120px" style="border-radius: 5%;">
+ - 2024级图书情报
+ - 石河子大学信息科学与技术学院模式识别与机器学习实验室
+
+## <img src="assets/briefcase-solid.svg" width="30px"> 研究方向
+
+- **基于图书封面的图书推荐系统**
+本研究剔除一种基于视觉特征的智能推荐系统，以真实的图书封面图片进行训练，通过深度学习技术提取封面图像的颜色、构图和风格特征，最终构建多模态的图书推荐方法，为图书推荐领域提供了视觉维度的新范式。
+
+## <img src="assets/tools-solid.svg" width="30px"> 学术动态
+
+## <img src="assets/rongyu.svg" width="30px"> 荣誉奖项
+
