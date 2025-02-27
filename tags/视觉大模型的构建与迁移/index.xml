@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>视觉大模型的构建与迁移 on 石大文档分析与模式识别实验室</title>
-    <link>https://zyclab.com/tags/%E8%A7%86%E8%A7%89%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%9E%84%E5%BB%BA%E4%B8%8E%E8%BF%81%E7%A7%BB/</link>
-    <description>Recent content in 视觉大模型的构建与迁移 on 石大文档分析与模式识别实验室</description>
-    <generator>Hugo</generator>
-    <language>zh-cn</language>
-    <lastBuildDate>Sun, 05 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://zyclab.com/tags/%E8%A7%86%E8%A7%89%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%9E%84%E5%BB%BA%E4%B8%8E%E8%BF%81%E7%A7%BB/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>视觉与学习青年学者研讨会(VALSE)</title>
-      <link>https://zyclab.com/blog/2024/05/05/valse/</link>
-      <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://zyclab.com/blog/2024/05/05/valse/</guid>
-      <description>&lt;p&gt;本次研讨会聚焦人工智能前沿领域，围绕&amp;quot;大模型赋能、多模态融合、技术落地&amp;quot;三大主线展开，系统呈现了视觉智能领域的最新进展与交叉应用。在技术理论层面，重点探讨了视觉大模型的构建与迁移（如高效网络架构、异构联邦学习）、多模态感知与生成（视频生成、3D高斯泼溅、神经形态相机）、具身智能系统（世界模型、自动驾驶决策）等核心技术突破，特别强调大模型与因果推理、价值对齐的理论创新。应用层面覆盖智慧医疗、遥感图像智能解译、海洋探测、艺术创作等垂直领域，突显AI技术向产业赋能的趋势。整体内容既包含自动驾驶、医疗影像等成熟应用场景，也前瞻性布局神经形态相机等新兴领域，呈现了AI技术从基础理论突破到产业生态构建的全链条创新图景。&#xA;&lt;figure class=&#34;caption-center&#34;&gt;&lt;img src=&#34;https://zyclab.com/img/posts/VALSE/lidong.png&#34;&#xA;    alt=&#34;参会人员&#34; width=&#34;60%&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;郑礼东&lt;/h4&gt;&lt;p&gt;参会人员&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure class=&#34;caption-center&#34;&gt;&lt;img src=&#34;https://zyclab.com/img/posts/VALSE/yichi.png&#34;&#xA;    alt=&#34;参会人员&#34; width=&#34;60%&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;张宜驰&lt;/h4&gt;&lt;p&gt;参会人员&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure class=&#34;caption-center&#34;&gt;&lt;img src=&#34;https://zyclab.com/img/posts/VALSE/mingjian.png&#34;&#xA;    alt=&#34;参会人员&#34; width=&#34;60%&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;张鸣建&lt;/h4&gt;&lt;p&gt;参会人员&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>视觉大模型的构建与迁移 on 石大文档分析与模式识别实验室</title><link>https://zyclab.com/tags/%E8%A7%86%E8%A7%89%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%9E%84%E5%BB%BA%E4%B8%8E%E8%BF%81%E7%A7%BB/</link><description>Recent content in 视觉大模型的构建与迁移 on 石大文档分析与模式识别实验室</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Sun, 05 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://zyclab.com/tags/%E8%A7%86%E8%A7%89%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%9E%84%E5%BB%BA%E4%B8%8E%E8%BF%81%E7%A7%BB/index.xml" rel="self" type="application/rss+xml"/><item><title>视觉与学习青年学者研讨会(VALSE)</title><link>https://zyclab.com/blog/2024/05/05/valse/</link><pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate><guid>https://zyclab.com/blog/2024/05/05/valse/</guid><description>&lt;p>本次研讨会聚焦人工智能前沿领域，围绕&amp;quot;大模型赋能、多模态融合、技术落地&amp;quot;三大主线展开，系统呈现了视觉智能领域的最新进展与交叉应用。在技术理论层面，重点探讨了视觉大模型的构建与迁移（如高效网络架构、异构联邦学习）、多模态感知与生成（视频生成、3D高斯泼溅、神经形态相机）、具身智能系统（世界模型、自动驾驶决策）等核心技术突破，特别强调大模型与因果推理、价值对齐的理论创新。应用层面覆盖智慧医疗、遥感图像智能解译、海洋探测、艺术创作等垂直领域，突显AI技术向产业赋能的趋势。整体内容既包含自动驾驶、医疗影像等成熟应用场景，也前瞻性布局神经形态相机等新兴领域，呈现了AI技术从基础理论突破到产业生态构建的全链条创新图景。
+&lt;figure class="caption-center">&lt;img src="https://zyclab.com/img/posts/VALSE/lidong.png"
+ alt="参会人员" width="60%">&lt;figcaption>
+ &lt;h4>郑礼东&lt;/h4>&lt;p>参会人员&lt;/p>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;figure class="caption-center">&lt;img src="https://zyclab.com/img/posts/VALSE/yichi.png"
+ alt="参会人员" width="60%">&lt;figcaption>
+ &lt;h4>张宜驰&lt;/h4>&lt;p>参会人员&lt;/p>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;figure class="caption-center">&lt;img src="https://zyclab.com/img/posts/VALSE/mingjian.png"
+ alt="参会人员" width="60%">&lt;figcaption>
+ &lt;h4>张鸣建&lt;/h4>&lt;p>参会人员&lt;/p>
+ &lt;/figcaption>
+&lt;/figure>
+&lt;/p></description></item></channel></rss>
