@@ -1,0 +1,12 @@
+weight: 8
+title: "隐私保护"
+description: >
+  <ul class="list-style-none">
+     <p><br></p>
+     <li>Federated Learning.</li>
+     <p><br></p>
+     <li>Adversarial Attacks and Defenses.</li>
+
+   </ul>
+image: "img/carousel/t8.png"
+href: "faq"

@@ -1,0 +1,5 @@
+# data/features/research.yaml
+weight: 1
+name: "科研项目"
+icon: "fas fa-microscope"
+description: "国家级重点科研项目成果展示"

@@ -1,0 +1,12 @@
+weight: 6
+title: "遥感图像智能解译"
+description: >
+  <ul class="list-style-none">
+     <p><br></p>
+     <li>Remote Sensing Image Target Detection.</li>
+     <p><br></p>
+     <li>Image Segmentation, Change Detection.</li>
+
+   </ul>
+image: "img/carousel/t66.png"
+href: "faq"
