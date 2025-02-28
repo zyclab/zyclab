@@ -1,23 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>计算科学与人工智能 on 石大文档分析与模式识别实验室</title><link>https://zyclab.com/tags/%E8%AE%A1%E7%AE%97%E7%A7%91%E5%AD%A6%E4%B8%8E%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</link><description>Recent content in 计算科学与人工智能 on 石大文档分析与模式识别实验室</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Fri, 25 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://zyclab.com/tags/%E8%AE%A1%E7%AE%97%E7%A7%91%E5%AD%A6%E4%B8%8E%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/index.xml" rel="self" type="application/rss+xml"/><item><title>2024 13th International Conference on Computing and Pattern Recognition</title><link>https://zyclab.com/blog/2024/10/25/iccpr/</link><pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate><guid>https://zyclab.com/blog/2024/10/25/iccpr/</guid><description>&lt;p>石河子大学模式识别与机器学习实验室在 ICCPR2024 国际会议上取得重要学术成果，实验室两篇创新性论文被会议录用并作报告，展现了团队在离线签名验证领域的深入研究。硕士研究生郑礼东、朱起峰在导师郑煜辰副教授指导下，分别围绕签名局部特征建模与深度特征子空间优化展开探索。&lt;/p>
-&lt;p>郑礼东提出的签名局部特征重建模块（SLFRM）创新性地设计了局部空间特征单元（LSFU）与局部空间注意力单元（LSAU），通过动态加权机制强化签名图像中判别性局部差异的学习，解决了传统方法对细微特征捕捉不足的难题。朱起峰的研究则聚焦于深度架构中最优子空间的发现，通过随机高维投影与线性判别分析（LDA）的协同优化，实现了签名特征在任意子空间下的判别性缩放，为复杂场景下的身份认证提供了新思路。&lt;/p>
-&lt;p>会议期间，实验室成员与国内外学者就深度学习、特征表示等前沿问题展开深入交流，充分展示了团队严谨的学术态度与创新活力。此次成果不仅体现了实验室在模式识别领域的科研实力，也为后续跨模态生物特征识别研究奠定了重要基础。&lt;/p>
-&lt;hr>
-&lt;h2 id="会议发表内容">会议发表内容&lt;/h2>
-&lt;h3 id="slfrm-a-novel-signature-local-feature-reconstruction-module-for-offline-signature-verification">SLFRM: A Novel Signature Local Feature Reconstruction Module for Offline Signature Verification&lt;/h3>
-&lt;p>硕士研究生 &lt;strong>郑礼东&lt;/strong> 在会议中报告其论文 &lt;strong>《SLFRM: A Novel Signature Local Feature Reconstruction Module for Offline Signature Verification》&lt;/strong> 相关内容。在他的报告中提出了一种新颖的签名局部特征重建模块（SLFRM），该模块为特征图分配权重，以便捕捉并强调不同签名在局部空间区域内的细微差异。具体而言，所提出的签名局部特征重建模块由两个单元组成：局部空间特征单元（LSFU）和局部空间注意力单元（LSAU）。局部空间特征单元用于提取签名的感受野空间特征，而局部空间注意力单元则用于获取签名的感受野空间注意力图。基于上述两个单元，然后通过标准的卷积操作，生成最终的局部重建特征。因此，所提出的签名局部特征重建模块会对输入特征进行权重重新分配，将更高的权重赋予那些具有更强判别力的特征。这一策略确保了模型在特征学习阶段优先学习细微差异特征。&lt;/p>
-&lt;figure class="caption-center">&lt;img src="https://zyclab.com/img/posts/ICCPR2024/lidong.png"
- alt="参会人员" width="60%">&lt;figcaption>
- &lt;h4>郑礼东&lt;/h4>&lt;p>参会人员&lt;/p>
- &lt;/figcaption>
-&lt;/figure>
-
-&lt;h3 id="discovering-optimal-subspaces-in-deep-architectures-for-offline-signature-verification">Discovering Optimal Subspaces in Deep Architectures for Offline Signature Verification&lt;/h3>
-&lt;p>硕士研究生 &lt;strong>朱起峰&lt;/strong> 在会议中报告其论文 &lt;strong>《Discovering Optimal Subspaces in Deep Architectures for Offline Signature Verification》&lt;/strong> 相关内容。在他的报告中提出了一种新颖的框架，该框架通过拉伸和降维深度特征来控制特征的维度，以获取最佳特征。具体来说，深度特征可以通过一个高维投影矩阵进行拉伸，该矩阵的元素是从标准正态分布中随机采样得到的，以此获得更具判别性的表示，然后进一步通过线性判别分析（LDA）进行降维，从而更有效地捕捉不同签名者之间的细微差异。通过这种方式，所学习到的特征可以被缩放至任何最优子空间。&lt;/p>
-&lt;figure class="caption-center">&lt;img src="https://zyclab.com/img/posts/ICCPR2024/qifeng.jpg"
- alt="参会人员" width="60%">&lt;figcaption>
- &lt;h4>朱起峰&lt;/h4>&lt;p>参会人员&lt;/p>
- &lt;/figcaption>
-&lt;/figure>
-
-&lt;h2 id="会议收获">会议收获&lt;/h2>
-&lt;p>在参会过程中实验室参会人员积极与其他参会人员交流，充分展现了石河子大学模式识别与机器学习实验室的优良学风和学术氛围。&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>计算科学与人工智能 on 石大文档分析与模式识别实验室</title>
+    <link>http://localhost:1313/tags/%E8%AE%A1%E7%AE%97%E7%A7%91%E5%AD%A6%E4%B8%8E%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</link>
+    <description>Recent content in 计算科学与人工智能 on 石大文档分析与模式识别实验室</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 25 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E8%AE%A1%E7%AE%97%E7%A7%91%E5%AD%A6%E4%B8%8E%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2024 13th International Conference on Computing and Pattern Recognition</title>
+      <link>http://localhost:1313/blog/2024/10/25/iccpr/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2024/10/25/iccpr/</guid>
+      <description>&lt;p&gt;石河子大学模式识别与机器学习实验室在 ICCPR2024 国际会议上取得重要学术成果，实验室两篇创新性论文被会议录用并作报告，展现了团队在离线签名验证领域的深入研究。硕士研究生郑礼东、朱起峰在导师郑煜辰副教授指导下，分别围绕签名局部特征建模与深度特征子空间优化展开探索。&lt;/p&gt;&#xA;&lt;p&gt;郑礼东提出的签名局部特征重建模块（SLFRM）创新性地设计了局部空间特征单元（LSFU）与局部空间注意力单元（LSAU），通过动态加权机制强化签名图像中判别性局部差异的学习，解决了传统方法对细微特征捕捉不足的难题。朱起峰的研究则聚焦于深度架构中最优子空间的发现，通过随机高维投影与线性判别分析（LDA）的协同优化，实现了签名特征在任意子空间下的判别性缩放，为复杂场景下的身份认证提供了新思路。&lt;/p&gt;&#xA;&lt;p&gt;会议期间，实验室成员与国内外学者就深度学习、特征表示等前沿问题展开深入交流，充分展示了团队严谨的学术态度与创新活力。此次成果不仅体现了实验室在模式识别领域的科研实力，也为后续跨模态生物特征识别研究奠定了重要基础。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;会议发表内容&#34;&gt;会议发表内容&lt;/h2&gt;&#xA;&lt;h3 id=&#34;slfrm-a-novel-signature-local-feature-reconstruction-module-for-offline-signature-verification&#34;&gt;SLFRM: A Novel Signature Local Feature Reconstruction Module for Offline Signature Verification&lt;/h3&gt;&#xA;&lt;p&gt;硕士研究生 &lt;strong&gt;郑礼东&lt;/strong&gt; 在会议中报告其论文 &lt;strong&gt;《SLFRM: A Novel Signature Local Feature Reconstruction Module for Offline Signature Verification》&lt;/strong&gt; 相关内容。在他的报告中提出了一种新颖的签名局部特征重建模块（SLFRM），该模块为特征图分配权重，以便捕捉并强调不同签名在局部空间区域内的细微差异。具体而言，所提出的签名局部特征重建模块由两个单元组成：局部空间特征单元（LSFU）和局部空间注意力单元（LSAU）。局部空间特征单元用于提取签名的感受野空间特征，而局部空间注意力单元则用于获取签名的感受野空间注意力图。基于上述两个单元，然后通过标准的卷积操作，生成最终的局部重建特征。因此，所提出的签名局部特征重建模块会对输入特征进行权重重新分配，将更高的权重赋予那些具有更强判别力的特征。这一策略确保了模型在特征学习阶段优先学习细微差异特征。&lt;/p&gt;&#xA;&lt;figure class=&#34;caption-center&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/posts/ICCPR2024/lidong.png&#34;&#xA;    alt=&#34;参会人员&#34; width=&#34;60%&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;郑礼东&lt;/h4&gt;&lt;p&gt;参会人员&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h3 id=&#34;discovering-optimal-subspaces-in-deep-architectures-for-offline-signature-verification&#34;&gt;Discovering Optimal Subspaces in Deep Architectures for Offline Signature Verification&lt;/h3&gt;&#xA;&lt;p&gt;硕士研究生 &lt;strong&gt;朱起峰&lt;/strong&gt; 在会议中报告其论文 &lt;strong&gt;《Discovering Optimal Subspaces in Deep Architectures for Offline Signature Verification》&lt;/strong&gt; 相关内容。在他的报告中提出了一种新颖的框架，该框架通过拉伸和降维深度特征来控制特征的维度，以获取最佳特征。具体来说，深度特征可以通过一个高维投影矩阵进行拉伸，该矩阵的元素是从标准正态分布中随机采样得到的，以此获得更具判别性的表示，然后进一步通过线性判别分析（LDA）进行降维，从而更有效地捕捉不同签名者之间的细微差异。通过这种方式，所学习到的特征可以被缩放至任何最优子空间。&lt;/p&gt;&#xA;&lt;figure class=&#34;caption-center&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/posts/ICCPR2024/qifeng.jpg&#34;&#xA;    alt=&#34;参会人员&#34; width=&#34;60%&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;朱起峰&lt;/h4&gt;&lt;p&gt;参会人员&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h2 id=&#34;会议收获&#34;&gt;会议收获&lt;/h2&gt;&#xA;&lt;p&gt;在参会过程中实验室参会人员积极与其他参会人员交流，充分展现了石河子大学模式识别与机器学习实验室的优良学风和学术氛围。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
