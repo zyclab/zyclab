@@ -1,201 +1,120 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>石大文档分析与模式识别实验室</title>
-    <link>https://zyclab.xyz/</link>
-    <description>Recent content on 石大文档分析与模式识别实验室</description>
-    <generator>Hugo</generator>
-    <language>zh-cn</language>
-    <lastBuildDate>Mon, 24 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://zyclab.xyz/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>刘子昂</title>
-      <link>https://zyclab.xyz/members/liuziang/</link>
-      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://zyclab.xyz/members/liuziang/</guid>
-      <description>&lt;h4 id=&#34;研究领域&#34;&gt;研究领域&lt;/h4&gt;&#xA;&lt;p&gt;基于多语言的语音识别与机器翻译&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>张宜驰</title>
-      <link>https://zyclab.xyz/members/zhangyichi/</link>
-      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://zyclab.xyz/members/zhangyichi/</guid>
-      <description>&lt;h4 id=&#34;研究领域&#34;&gt;研究领域&lt;/h4&gt;&#xA;&lt;p&gt;基于图神经网络的签名鉴定&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>张鸣建</title>
-      <link>https://zyclab.xyz/members/zhangmingjian/</link>
-      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://zyclab.xyz/members/zhangmingjian/</guid>
-      <description>&lt;h4 id=&#34;研究领域&#34;&gt;研究领域&lt;/h4&gt;&#xA;&lt;p&gt;离线手写签名生成&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>张齐悦</title>
-      <link>https://zyclab.xyz/members/zhangqiyue/</link>
-      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://zyclab.xyz/members/zhangqiyue/</guid>
-      <description>&lt;h4 id=&#34;研究领域&#34;&gt;研究领域&lt;/h4&gt;&#xA;&lt;p&gt;LLM的文献知识挖掘与推荐&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>徐圣杰</title>
-      <link>https://zyclab.xyz/members/xushengjie/</link>
-      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://zyclab.xyz/members/xushengjie/</guid>
-      <description>&lt;h4 id=&#34;研究领域&#34;&gt;研究领域&lt;/h4&gt;&#xA;&lt;p&gt;遥感图像变化检测&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>徐绍俊</title>
-      <link>https://zyclab.xyz/members/xushaojun/</link>
-      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://zyclab.xyz/members/xushaojun/</guid>
-      <description>&lt;h4 id=&#34;研究领域&#34;&gt;研究领域&lt;/h4&gt;&#xA;&lt;p&gt;基于视觉感知特征的纹理图像检索&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>朱起峰</title>
-      <link>https://zyclab.xyz/members/zhuqifeng/</link>
-      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://zyclab.xyz/members/zhuqifeng/</guid>
-      <description>&lt;h4 id=&#34;研究领域&#34;&gt;研究领域&lt;/h4&gt;&#xA;&lt;p&gt;离线手写签名鉴定&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>李英伦</title>
-      <link>https://zyclab.xyz/members/liyinglun/</link>
-      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://zyclab.xyz/members/liyinglun/</guid>
-      <description>&lt;h4 id=&#34;研究领域&#34;&gt;研究领域&lt;/h4&gt;&#xA;&lt;p&gt;基于图书封面的推荐系统&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>杨意飞</title>
-      <link>https://zyclab.xyz/members/yangyifei/</link>
-      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://zyclab.xyz/members/yangyifei/</guid>
-      <description>&lt;h4 id=&#34;研究领域&#34;&gt;研究领域&lt;/h4&gt;&#xA;&lt;p&gt;图神经网络及其应用&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>武达</title>
-      <link>https://zyclab.xyz/members/wuda/</link>
-      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://zyclab.xyz/members/wuda/</guid>
-      <description>&lt;h4 id=&#34;研究领域&#34;&gt;研究领域&lt;/h4&gt;&#xA;&lt;p&gt;遥感图像植被要素变化检测&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>王澎</title>
-      <link>https://zyclab.xyz/members/wangpeng/</link>
-      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://zyclab.xyz/members/wangpeng/</guid>
-      <description>&lt;h4 id=&#34;研究领域&#34;&gt;研究领域&lt;/h4&gt;&#xA;&lt;p&gt;多模态卫星遥感影像变化检测&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>白淏</title>
-      <link>https://zyclab.xyz/members/baihao/</link>
-      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://zyclab.xyz/members/baihao/</guid>
-      <description>&lt;h4 id=&#34;研究领域&#34;&gt;研究领域&lt;/h4&gt;&#xA;&lt;p&gt;遥感图像中建筑要素变化检测&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>秦乃乾</title>
-      <link>https://zyclab.xyz/members/qinnaiqian/</link>
-      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://zyclab.xyz/members/qinnaiqian/</guid>
-      <description>&lt;h4 id=&#34;研究领域&#34;&gt;研究领域&lt;/h4&gt;&#xA;&lt;p&gt;基于离线与在线信息的手写签名生成&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>贾微</title>
-      <link>https://zyclab.xyz/members/jiawei/</link>
-      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://zyclab.xyz/members/jiawei/</guid>
-      <description>&lt;h4 id=&#34;研究领域&#34;&gt;研究领域&lt;/h4&gt;&#xA;&lt;p&gt;离线手写签名鉴定系统的安全问题&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>郑礼东</title>
-      <link>https://zyclab.xyz/members/zhenglidong/</link>
-      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://zyclab.xyz/members/zhenglidong/</guid>
-      <description>&lt;h4 id=&#34;研究领域&#34;&gt;研究领域&lt;/h4&gt;&#xA;&lt;p&gt;模式识别、针对离线手写签名的特征学习&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>陈佳恩</title>
-      <link>https://zyclab.xyz/members/chenjiaen/</link>
-      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://zyclab.xyz/members/chenjiaen/</guid>
-      <description>&lt;h4 id=&#34;研究领域&#34;&gt;研究领域&lt;/h4&gt;&#xA;&lt;p&gt;多模态卫星遥感影像分割与变化检测&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>陈宇龙</title>
-      <link>https://zyclab.xyz/members/chenyulong/</link>
-      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://zyclab.xyz/members/chenyulong/</guid>
-      <description>&lt;h4 id=&#34;研究领域&#34;&gt;研究领域&lt;/h4&gt;&#xA;&lt;p&gt;手绘草图纹理特征检索&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>陈恩泽</title>
-      <link>https://zyclab.xyz/members/chenenze/</link>
-      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://zyclab.xyz/members/chenenze/</guid>
-      <description>&lt;h4 id=&#34;研究领域&#34;&gt;研究领域&lt;/h4&gt;&#xA;&lt;p&gt;基于联邦学习的手写签名鉴定、持续学习&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>陈邹权</title>
-      <link>https://zyclab.xyz/members/chenzouquan/</link>
-      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://zyclab.xyz/members/chenzouquan/</guid>
-      <description>&lt;h4 id=&#34;研究领域&#34;&gt;研究领域&lt;/h4&gt;&#xA;&lt;p&gt;联邦学习、脉冲神经网络&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>马全青</title>
-      <link>https://zyclab.xyz/members/maquanqing/</link>
-      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://zyclab.xyz/members/maquanqing/</guid>
-      <description>&lt;h4 id=&#34;研究领域&#34;&gt;研究领域&lt;/h4&gt;&#xA;&lt;p&gt;水体变化检测&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>2024 13th International Conference on Computing and Pattern Recognition</title>
-      <link>https://zyclab.xyz/blog/2024/10/25/iccpr/</link>
-      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://zyclab.xyz/blog/2024/10/25/iccpr/</guid>
-      <description>&lt;p&gt;石河子大学模式识别与机器学习实验室在 ICCPR2024 国际会议上取得重要学术成果，实验室两篇创新性论文被会议录用并作报告，展现了团队在离线签名验证领域的深入研究。硕士研究生郑礼东、朱起峰在导师郑煜辰副教授指导下，分别围绕签名局部特征建模与深度特征子空间优化展开探索。&lt;/p&gt;&#xA;&lt;p&gt;郑礼东提出的签名局部特征重建模块（SLFRM）创新性地设计了局部空间特征单元（LSFU）与局部空间注意力单元（LSAU），通过动态加权机制强化签名图像中判别性局部差异的学习，解决了传统方法对细微特征捕捉不足的难题。朱起峰的研究则聚焦于深度架构中最优子空间的发现，通过随机高维投影与线性判别分析（LDA）的协同优化，实现了签名特征在任意子空间下的判别性缩放，为复杂场景下的身份认证提供了新思路。&lt;/p&gt;&#xA;&lt;p&gt;会议期间，实验室成员与国内外学者就深度学习、特征表示等前沿问题展开深入交流，充分展示了团队严谨的学术态度与创新活力。此次成果不仅体现了实验室在模式识别领域的科研实力，也为后续跨模态生物特征识别研究奠定了重要基础。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;会议发表内容&#34;&gt;会议发表内容&lt;/h2&gt;&#xA;&lt;h3 id=&#34;slfrm-a-novel-signature-local-feature-reconstruction-module-for-offline-signature-verification&#34;&gt;SLFRM: A Novel Signature Local Feature Reconstruction Module for Offline Signature Verification&lt;/h3&gt;&#xA;&lt;p&gt;硕士研究生 &lt;strong&gt;郑礼东&lt;/strong&gt; 在会议中报告其论文 &lt;strong&gt;《SLFRM: A Novel Signature Local Feature Reconstruction Module for Offline Signature Verification》&lt;/strong&gt; 相关内容。在他的报告中提出了一种新颖的签名局部特征重建模块（SLFRM），该模块为特征图分配权重，以便捕捉并强调不同签名在局部空间区域内的细微差异。具体而言，所提出的签名局部特征重建模块由两个单元组成：局部空间特征单元（LSFU）和局部空间注意力单元（LSAU）。局部空间特征单元用于提取签名的感受野空间特征，而局部空间注意力单元则用于获取签名的感受野空间注意力图。基于上述两个单元，然后通过标准的卷积操作，生成最终的局部重建特征。因此，所提出的签名局部特征重建模块会对输入特征进行权重重新分配，将更高的权重赋予那些具有更强判别力的特征。这一策略确保了模型在特征学习阶段优先学习细微差异特征。&lt;/p&gt;&#xA;&lt;figure class=&#34;caption-center&#34;&gt;&lt;img src=&#34;https://zyclab.xyz/img/posts/ICCPR2024/lidong.png&#34;&#xA;    alt=&#34;参会人员&#34; width=&#34;60%&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;郑礼东&lt;/h4&gt;&lt;p&gt;参会人员&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h3 id=&#34;discovering-optimal-subspaces-in-deep-architectures-for-offline-signature-verification&#34;&gt;Discovering Optimal Subspaces in Deep Architectures for Offline Signature Verification&lt;/h3&gt;&#xA;&lt;p&gt;硕士研究生 &lt;strong&gt;朱起峰&lt;/strong&gt; 在会议中报告其论文 &lt;strong&gt;《Discovering Optimal Subspaces in Deep Architectures for Offline Signature Verification》&lt;/strong&gt; 相关内容。在他的报告中提出了一种新颖的框架，该框架通过拉伸和降维深度特征来控制特征的维度，以获取最佳特征。具体来说，深度特征可以通过一个高维投影矩阵进行拉伸，该矩阵的元素是从标准正态分布中随机采样得到的，以此获得更具判别性的表示，然后进一步通过线性判别分析（LDA）进行降维，从而更有效地捕捉不同签名者之间的细微差异。通过这种方式，所学习到的特征可以被缩放至任何最优子空间。&lt;/p&gt;&#xA;&lt;figure class=&#34;caption-center&#34;&gt;&lt;img src=&#34;https://zyclab.xyz/img/posts/ICCPR2024/qifeng.jpg&#34;&#xA;    alt=&#34;参会人员&#34; width=&#34;60%&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;朱起峰&lt;/h4&gt;&lt;p&gt;参会人员&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h2 id=&#34;会议收获&#34;&gt;会议收获&lt;/h2&gt;&#xA;&lt;p&gt;在参会过程中实验室参会人员积极与其他参会人员交流，充分展现了石河子大学模式识别与机器学习实验室的优良学风和学术氛围。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>研究方向</title>
-      <link>https://zyclab.xyz/research/</link>
-      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://zyclab.xyz/research/</guid>
-      <description>&lt;h2 id=&#34;一模式识别与机器学习&#34;&gt;一、模式识别与机器学习&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1机器学习与深度学习基础理论&#34;&gt;1.机器学习与深度学习基础理论&lt;/h3&gt;&#xA;&lt;p&gt;机器学习是人工智能的核心分支，通过从数据中自动学习规律和模式，使计算机无需显式编程即可完成预测或决策任务。其核心方法包括监督学习（利用标注数据训练模型，如分类、回归）、无监督学习（挖掘无标签数据的结构，如聚类、降维）和强化学习（通过与环境的交互优化决策策略）。关键理论涵盖损失函数优化、偏差-方差权衡以及防止过拟合的正则化技术。深度学习作为机器学习的子领域，基于多层神经网络实现复杂特征的层次化自动提取，通过反向传播算法优化参数，擅长处理图像、文本等非结构化数据，但依赖大量数据与计算资源。两者共同推动人工智能在图像识别、自然语言处理等领域的突破。&lt;/p&gt;&#xA;&lt;h3 id=&#34;2ai-for-science&#34;&gt;2.AI for Science&lt;/h3&gt;&#xA;&lt;p&gt;AI for Science 是人工智能与自然科学深度融合的新兴领域，通过机器学习、深度学习等技术加速科学发现与复杂问题求解。其在生物医学（如AlphaFold预测蛋白质结构）、材料设计（新型分子/材料生成）、气候模拟、量子计算等领域展现突破性潜力：AI能高效处理海量实验数据、挖掘隐藏规律，辅助科学家优化实验路径、模拟复杂系统，甚至超越传统方法的效率边界。例如，深度生成模型加速药物筛选，强化学习优化能源系统设计。这一交叉范式正推动科研从“试错驱动”转向“数据+算法驱动”，成为破解科学难题、缩短研发周期的革命性工具。&lt;/p&gt;&#xA;&lt;h3 id=&#34;3小样本学习&#34;&gt;3.小样本学习&lt;/h3&gt;&#xA;&lt;p&gt;小样本学习（Few-Shot Learning）是机器学习的一种方法，旨在通过极少量标注样本（如几个到几十个样本）训练模型完成新任务，其核心在于利用先验知识（如元学习、迁移学习或数据增强）提升模型在数据稀缺场景下的泛化能力。该技术广泛应用于图像分类、自然语言处理等领域，解决传统深度学习依赖大量数据的局限性，使模型能够快速适应新类别或任务。&lt;/p&gt;&#xA;&lt;h2 id=&#34;二文档识别分析&#34;&gt;二、文档识别分析&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1场景文本分析&#34;&gt;1.场景文本分析&lt;/h3&gt;&#xA;&lt;p&gt;场景文本分析是文档识别分析的关键分支，主要针对自然场景图像中的文字进行检测、识别与理解。其挑战在于应对复杂背景干扰、多尺度字体变化、光照不均、方向扭曲及多语言混杂等问题，需结合深度学习模型（如CRNN、EAST、Transformer）实现端到端的文本定位与内容解析。该技术广泛应用于自动驾驶路标识别、商品包装信息提取、智能安防监控及社交媒体图像分析等领域，通过跨模态融合提升对场景上下文语义的理解能力。&lt;/p&gt;&#xA;&lt;h3 id=&#34;2古文档分析&#34;&gt;2.古文档分析&lt;/h3&gt;&#xA;&lt;p&gt;古文档分析是文档识别分析的重要分支，主要针对历史文献、古籍手稿等文化遗产进行数字化处理与内容解析。其核心通过高精度扫描、多光谱成像等技术还原褪色或破损文本，结合光学字符识别（OCR）与人工智能算法识别异体字、古文字及特殊符号，同时分析纸张材质、墨迹成分、装帧痕迹等物理特征，辅助破损检测和年代鉴定。该技术不仅实现文字内容的数字化转译，还能挖掘文献的版本源流、作者笔迹特征及历史背景信息，为学术研究、古籍修复和文化遗产保护提供跨学科支撑，兼顾文物保存与知识传承的双重价值。&lt;/p&gt;&#xA;&lt;h3 id=&#34;3手写文本分析&#34;&gt;3.手写文本分析&lt;/h3&gt;&#xA;&lt;p&gt;手写文本分析是文档识别分析的关键领域，专注于对个性化笔迹内容的自动化识别与理解。该技术通过深度学习、模式识别等方法处理手写体字符的多样性（如连笔、潦草字迹），结合上下文语义及书写结构特征提升识别精度。除文字转译外，还可分析笔迹风格、书写压力等动态信息，用于身份验证或笔迹鉴定。其应用涵盖历史手稿数字化、教育作业批改、医疗处方解析及法律文件处理等场景，需兼顾复杂书写习惯的泛化能力与隐私保护要求，助力非结构化手写信息的高效利用与智能管理。&lt;/p&gt;&#xA;&lt;h2 id=&#34;三手写签名鉴定&#34;&gt;三、手写签名鉴定&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1手写签名特征提取生成鉴定&#34;&gt;1.手写签名特征提取、生成、鉴定&lt;/h3&gt;&#xA;&lt;p&gt;手写签名鉴定通过特征提取、特征生成和鉴定分析三个阶段实现：首先从签名图像中提取几何结构、笔画动态（如运笔速度、压力变化）及局部细节（如连笔特征）等静态与动态特征；其次通过特征降维、标准化或深度学习生成高区分度的特征向量；最后利用模式匹配（如动态时间规整）、统计模型或神经网络计算待测签名与参考样本的相似度，综合判定签名真伪，兼顾个体书写习惯的独特性与伪造特征的异常性。&lt;/p&gt;&#xA;&lt;h3 id=&#34;2多场景下手写签名分析&#34;&gt;2.多场景下手写签名分析&lt;/h3&gt;&#xA;&lt;p&gt;手写签名多场景分析需针对不同应用环境（如纸质文档、电子屏签、移动设备等）及签名条件（静态图像、动态笔压轨迹、多时段样本等）进行适应性处理：在静态场景中侧重笔形结构、墨迹分布及局部形变特征，结合图像增强技术消除光照、介质干扰；动态场景则利用时序信息（运笔速度、加速度、压力曲线）构建行为生物特征，并通过跨模态融合提升鲁棒性；同时引入迁移学习应对跨设备数据差异，结合上下文信息（如签名用途、书写姿势）建立分层鉴别模型，有效区分自然变异与伪造痕迹，确保司法文书、金融合约等不同场景下的鉴定可靠性。&lt;/p&gt;&#xA;&lt;h2 id=&#34;四医学图像处理&#34;&gt;四、医学图像处理&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1医学图像分割与分类方法&#34;&gt;1.医学图像分割与分类方法&lt;/h3&gt;&#xA;&lt;p&gt;医学图像分割与分类是医学图像处理中的核心任务，旨在精准定位解剖结构或病灶区域（分割）并识别其病理类型（分类）。传统分割方法包括阈值法、区域生长和活动轮廓模型，而分类多依赖特征提取与机器学习（如SVM、随机森林）。随着深度学习发展，U-Net及其变体通过编码-解码结构和跳跃连接在分割中表现优异；分类任务则广泛采用卷积神经网络（CNN）、迁移学习及Vision Transformer（ViT）等模型，结合数据增强和弱监督学习缓解医学数据稀缺问题。当前研究多关注多模态融合、3D分割网络及联合分割分类的端到端模型，以提升临床辅助诊断的准确性和鲁棒性，但小样本标注、类别不平衡和模型可解释性仍是重要挑战。&lt;/p&gt;&#xA;&lt;h3 id=&#34;2样本不平衡下的学习问题&#34;&gt;2.样本不平衡下的学习问题&lt;/h3&gt;&#xA;&lt;p&gt;医学图像处理中的样本不平衡学习问题指数据集中不同类别（如正常与病变样本）的样本数量差异显著，导致模型训练时倾向于预测多数类，严重影响分类或分割性能。医学场景中，罕见病或早期病灶样本稀缺是主要诱因。传统方法包括过采样、欠采样或代价敏感学习（调整损失函数权重），但医学图像的高维特性可能引发过采样噪声或信息丢失。深度学习中，焦点损失（Focal Loss）、基于生成对抗网络（GAN）的数据增强、以及结合对比学习或课程学习的策略被广泛探索，以强化模型对少数类的特征捕捉。此外，迁移学习、元学习及自监督预训练可缓解数据匮乏问题。当前挑战在于平衡数据合成真实性、模型泛化性及小样本下的类内差异，同时需结合领域知识优化样本利用效率。&lt;/p&gt;&#xA;&lt;h2 id=&#34;五数据挖掘与生物信息学&#34;&gt;五、数据挖掘与生物信息学&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1基于图神经网络的蛋白质结构预测&#34;&gt;1.基于图神经网络的蛋白质结构预测&lt;/h3&gt;&#xA;&lt;p&gt;在生物信息学领域，基于图神经网络（GNN）的蛋白质结构预测通过将蛋白质建模为图结构（节点代表氨基酸残基，边表示残基间的相互作用或空间邻近关系），结合数据挖掘技术从大规模蛋白质序列和结构数据库中提取特征，自动学习蛋白质折叠规律。GNN能够有效捕捉蛋白质局部和全局的拓扑特征，并通过聚合邻域信息预测残基间的距离或三维坐标，显著提升了结构预测精度。这类方法不仅加速了蛋白质功能解析，还为药物靶点设计和疾病机制研究提供了高效的计算工具。&lt;/p&gt;&#xA;&lt;h3 id=&#34;2药物预测与发现&#34;&gt;2.药物预测与发现&lt;/h3&gt;&#xA;&lt;p&gt;在生物信息学与数据挖掘结合的药物预测与发现中，研究者通过整合基因组、蛋白质组、代谢组等多源异构数据，结合化学数据库与生物活性信息，利用机器学习（如深度学习、图神经网络）分析药物-靶点相互作用、预测化合物药效及毒性。数据挖掘技术能从海量文献和实验数据中提取潜在药物候选分子，并通过虚拟筛选加速候选药物优化。这类方法显著缩短了传统药物研发周期，支持药物重定位（老药新用）和新型化合物设计，为精准医疗和抗病治疗提供了高效、低成本的解决方案。&lt;/p&gt;&#xA;&lt;h3 id=&#34;3相互作用分析&#34;&gt;3.相互作用分析&lt;/h3&gt;&#xA;&lt;p&gt;在生物信息学中，数据挖掘驱动的相互作用分析聚焦于揭示生物分子（如蛋白质-蛋白质、药物-靶点、基因-调控因子）间的功能关联网络。通过整合多组学数据（基因组、转录组、蛋白质组）和公共数据库（如STRING、KEGG），结合图网络建模、随机游走算法或深度学习模型（如GNN、注意力机制），系统挖掘隐含的相互作用模式及动态调控机制。这类分析可识别疾病相关通路、预测潜在药物作用靶点或毒性反应，为理解复杂生物系统、优化治疗方案及多靶点药物开发提供数据驱动的理论支持。&lt;/p&gt;&#xA;&lt;h3 id=&#34;4菌群分布与挖掘&#34;&gt;4.菌群分布与挖掘&lt;/h3&gt;&#xA;&lt;p&gt;在生物信息学中，基于数据挖掘的菌群分布研究通过整合宏基因组、代谢组及环境变量等多源数据，利用高通量测序技术解析微生物群落的组成与动态变化。借助机器学习（如随机森林、网络分析）和统计模型（如α/β多样性分析、LefSe差异检验），挖掘菌群结构与环境、宿主表型（如疾病、营养状态）的关联规律，识别关键功能物种或共生网络。这类方法不仅揭示了肠道、土壤等复杂生态系统中微生物的互作机制，还支持精准医学中的菌群干预策略，助力疾病诊断、生态修复及农业微生物资源开发。&lt;/p&gt;&#xA;&lt;h3 id=&#34;5社团检测与复杂网络&#34;&gt;5.社团检测与复杂网络&lt;/h3&gt;&#xA;&lt;p&gt;在生物信息学中，基于数据挖掘的社团检测与复杂网络分析聚焦于识别生物系统（如蛋白质互作网络、基因共表达网络或微生物共生网络）中的功能模块化结构。通过图论算法（如Louvain、模块度优化）和机器学习模型，结合多组学数据与公共数据库（如STRING、KEGG），挖掘网络中紧密连接的子群（社团），揭示其与特定生物功能、疾病通路或环境适应性的关联。这类分析可识别关键枢纽节点、预测未知功能模块，并解析网络动态特性（如鲁棒性、层级性），为疾病机制研究、多靶点药物设计及合成生物学中的网络重构提供理论依据，助力复杂生物系统的模块化解析与精准调控。&lt;/p&gt;&#xA;&lt;h3 id=&#34;6知识图谱&#34;&gt;6.知识图谱&lt;/h3&gt;&#xA;&lt;p&gt;在生物信息学中，基于数据挖掘的知识图谱通过整合多源异构数据（如基因、蛋白质、疾病、药物及文献信息），构建结构化的生物医学实体关系网络。利用自然语言处理（NLP）从文献中抽取关联规则，结合图数据库（如Neo4j）和图嵌入技术（如TransE、GNN），系统表征生物分子相互作用、疾病-基因关联及药物作用机制。知识图谱支持语义推理与跨领域关联挖掘，可加速药物重定位、疾病靶点预测及多组学数据融合，为精准医疗、复杂疾病机理解析及跨学科研究提供可解释的智能决策框架。&lt;/p&gt;&#xA;&lt;h2 id=&#34;六遥感图像智能解译&#34;&gt;六、遥感图像智能解译&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1遥感影像目标检测&#34;&gt;1.遥感影像目标检测&lt;/h3&gt;&#xA;&lt;p&gt;遥感影像目标检测是遥感图像智能解译的核心任务之一，旨在从高分辨率遥感影像中自动识别并定位特定地物目标（如建筑物、车辆、船舶、飞机等）。其通过深度学习模型（如卷积神经网络、Transformer等）对图像进行特征提取与多尺度分析，克服遥感影像背景复杂、目标尺度多样、方向任意性强等挑战，在军事侦察、灾害监测、城市规划等领域具有重要应用。当前研究聚焦于小样本学习、旋转不变性建模、多源数据融合等方向，结合注意力机制、自监督学习等技术提升检测精度与泛化能力。&lt;/p&gt;&#xA;&lt;h3 id=&#34;2图像分割&#34;&gt;2.图像分割&lt;/h3&gt;&#xA;&lt;p&gt;遥感影像图像分割是遥感智能解译的关键技术之一，旨在通过像素级分类将影像划分为具有语义一致性的区域（如植被、水体、道路、建筑物等）。针对遥感数据高分辨率、多光谱、地物尺度差异大等特点，常采用深度学习方法（如U-Net、DeepLab等），结合多尺度特征融合与上下文建模，解决地物边界模糊、类内差异显著等挑战。该技术在土地利用分类、地表覆盖制图、灾害损毁评估等领域广泛应用，当前研究重点包括弱监督分割、多模态数据协同、轻量化模型设计等方向，并借助对比学习、域适应等技术提升复杂场景下的分割鲁棒性。&lt;/p&gt;&#xA;&lt;h3 id=&#34;3变化检测&#34;&gt;3.变化检测&lt;/h3&gt;&#xA;&lt;p&gt;遥感影像变化检测是遥感图像智能解译的重要任务之一，旨在通过分析多时相遥感影像（如不同时间获取的卫星或航空影像），自动识别地表覆盖或地物状态的动态变化（如建筑新建、植被退化、灾害损毁等）。其核心挑战在于克服影像间光照差异、季节变化、配准误差等干扰，准确区分真实变化与伪变化。传统方法依赖像素或对象级差异分析，而深度学习方法（如孪生网络、时序Transformer）通过时空特征建模与上下文感知提升检测精度，广泛应用于城市扩张监测、环境评估、应急响应等领域。当前研究聚焦于弱监督/无监督学习、多源数据融合、域适应、大模型知识迁移等方向，结合注意力机制与对比学习技术，优化复杂场景下的变化识别鲁棒性与效率。&lt;/p&gt;&#xA;&lt;h2 id=&#34;七语音识别分析&#34;&gt;七、语音识别分析&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1多语种语音识别&#34;&gt;1.多语种语音识别&lt;/h3&gt;&#xA;&lt;p&gt;多语种语音识别是语音识别技术的重要分支，旨在实现对不同语言、方言及混合语音的精准识别与跨语言处理。其核心挑战在于应对不同语言在声学特征（如音素分布）、语法结构、发音习惯及口音变体上的差异性，需通过融合深度学习模型（如Transformer、端到端架构）和多任务学习策略，结合大规模多语种语料库进行联合训练，以提取跨语言共享特征并增强模型泛化能力。关键技术包括语言自适应编码、音素共享机制以及语言识别（LID）模块的动态集成，典型应用如Google的Universal Speech Model和Meta的MMS项目已实现百余种语言的识别支持。该技术对全球化智能客服、实时翻译设备和低资源语言保护具有重要意义，但低资源语言的标注数据稀缺、语码切换（code-switching）现象及方言识别精度仍是当前研究难点。&lt;/p&gt;&#xA;&lt;h3 id=&#34;2机器翻译&#34;&gt;2.机器翻译&lt;/h3&gt;&#xA;&lt;p&gt;语音识别中的机器翻译（Speech-to-Text Translation）是将语音识别（ASR）与机器翻译（MT）相结合的技术，旨在直接将一种语言的语音输入实时转化为另一种语言的文本或语音输出。其核心流程通常分为两步：首先通过语音识别系统将源语言语音转换为文本，再通过神经机器翻译（NMT）模型将文本翻译为目标语言；而端到端语音翻译（E2E ST）技术则尝试绕过中间文本环节，直接从语音到目标语言进行跨模态映射。关键技术挑战包括语音识别错误对翻译质量的级联影响、语言间语法与语义结构的差异对齐，以及低资源语言对的语料稀缺问题。当前研究聚焦于多模态联合训练、跨语言预训练模型（如mBART、Whisper）和动态自适应解码，以提升翻译鲁棒性。典型应用涵盖实时会议翻译（如Zoom AI同传）、跨国客服系统及便携式翻译设备（如讯飞翻译机），但口音适应性、语境歧义消除和实时延迟优化仍是亟待突破的难点。&lt;/p&gt;&#xA;&lt;h3 id=&#34;3语义分析&#34;&gt;3.语义分析&lt;/h3&gt;&#xA;&lt;p&gt;语音识别中的语义分析是结合自然语言处理（NLP）技术，从语音转写的文本中提取深层含义、意图及上下文关联的关键环节。其核心在于突破表层词汇匹配，通过上下文建模、实体识别、情感分析和意图分类等任务，解决语言歧义、省略及多义词等挑战。技术层面常依赖预训练语言模型（如BERT、GPT）、图神经网络（GNN）或知识图谱融合，以增强对领域术语、口语化表达及复杂逻辑关系的理解。典型应用包括智能客服（如意图驱动的对话系统）、语音助手指令解析（如Siri、Alexa）及实时会议摘要生成。当前难点集中于跨模态语义对齐（如语音语调对情感的影响）、低资源场景下的迁移学习，以及动态对话场景中的多轮推理优化，需结合强化学习和增量学习进一步提升鲁棒性与实时性。&lt;/p&gt;&#xA;&lt;h2 id=&#34;八隐私保护&#34;&gt;八、隐私保护&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1联邦学习&#34;&gt;1.联邦学习&lt;/h3&gt;&#xA;&lt;p&gt;联邦学习（Federated Learning）是一种分布式机器学习技术，旨在保护数据隐私的前提下实现多方协作建模。其核心思想是数据不离开本地，各参与方在本地训练模型后仅上传模型参数（如梯度更新）至中心服务器进行聚合，而非直接共享原始数据。这种方式有效解决了数据孤岛问题，同时通过加密技术、差分隐私或安全多方计算等手段进一步降低隐私泄露风险，广泛应用于医疗、金融等对数据敏感性要求高的领域。&lt;/p&gt;&#xA;&lt;h3 id=&#34;2对抗攻击与防御&#34;&gt;2.对抗攻击与防御&lt;/h3&gt;&#xA;&lt;p&gt;在隐私保护中，对抗攻击与防御聚焦于防止恶意方通过模型输出来逆向推断敏感数据或破坏隐私保护机制。对抗攻击可能通过生成对抗样本（如微小扰动）误导模型泄露个体数据特征（如成员推断攻击、属性推断攻击），或利用模型梯度反推原始数据。防御手段则包括对抗训练（增强模型对攻击样本的鲁棒性）、梯度扰动或剪裁（如差分隐私技术）、加密中间参数，以及设计隐私增强的模型结构（如生成对抗网络用于数据脱敏）。这一领域平衡模型可用性与隐私安全，广泛应用于人脸识别、医疗数据分析、手写签名鉴定等敏感场景。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>视觉与学习青年学者研讨会(VALSE)</title>
-      <link>https://zyclab.xyz/blog/2024/05/05/valse/</link>
-      <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://zyclab.xyz/blog/2024/05/05/valse/</guid>
-      <description>&lt;p&gt;本次研讨会聚焦人工智能前沿领域，围绕&amp;quot;大模型赋能、多模态融合、技术落地&amp;quot;三大主线展开，系统呈现了视觉智能领域的最新进展与交叉应用。在技术理论层面，重点探讨了视觉大模型的构建与迁移（如高效网络架构、异构联邦学习）、多模态感知与生成（视频生成、3D高斯泼溅、神经形态相机）、具身智能系统（世界模型、自动驾驶决策）等核心技术突破，特别强调大模型与因果推理、价值对齐的理论创新。应用层面覆盖智慧医疗、遥感图像智能解译、海洋探测、艺术创作等垂直领域，突显AI技术向产业赋能的趋势。整体内容既包含自动驾驶、医疗影像等成熟应用场景，也前瞻性布局神经形态相机等新兴领域，呈现了AI技术从基础理论突破到产业生态构建的全链条创新图景。&#xA;&lt;figure class=&#34;caption-center&#34;&gt;&lt;img src=&#34;https://zyclab.xyz/img/posts/VALSE/lidong.png&#34;&#xA;    alt=&#34;参会人员&#34; width=&#34;60%&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;郑礼东&lt;/h4&gt;&lt;p&gt;参会人员&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure class=&#34;caption-center&#34;&gt;&lt;img src=&#34;https://zyclab.xyz/img/posts/VALSE/yichi.png&#34;&#xA;    alt=&#34;参会人员&#34; width=&#34;60%&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;张宜驰&lt;/h4&gt;&lt;p&gt;参会人员&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure class=&#34;caption-center&#34;&gt;&lt;img src=&#34;https://zyclab.xyz/img/posts/VALSE/mingjian.png&#34;&#xA;    alt=&#34;参会人员&#34; width=&#34;60%&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;张鸣建&lt;/h4&gt;&lt;p&gt;参会人员&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>第七届亚洲人工智能技术大会</title>
-      <link>https://zyclab.xyz/blog/2023/11/10/acait/</link>
-      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://zyclab.xyz/blog/2023/11/10/acait/</guid>
-      <description>&lt;p&gt;本实验室陈恩泽和武达于2023年11月10日至12日于浙江衢州参加由中国人工智能学会主办的第七届亚洲人工智能技术大会。大会以“智能引领、创新未来”为主题，由中国工程院院士领衔，300余位相关领域内的专家学者线上线下参会，共同开启一场高规格、高层次的人工智能学术会议。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>郑煜辰</title>
-      <link>https://zyclab.xyz/members/zyc/</link>
-      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://zyclab.xyz/members/zyc/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Contact</title>
-      <link>https://zyclab.xyz/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://zyclab.xyz/contact/</guid>
-      <description>&lt;h1 id=&#34;we-are-here-to-help-you&#34;&gt;We are here to help you&lt;/h1&gt;&#xA;&lt;p&gt;Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.&lt;/p&gt;&#xA;&lt;p&gt;Please feel free to contact us, our customer service center is working for you 24/7.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>FAQ</title>
-      <link>https://zyclab.xyz/faq/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://zyclab.xyz/faq/</guid>
-      <description>&lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-what-to-do-if-i-have-still-not-received-the-order&#34;&gt;1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER?&lt;/h2&gt;&#xA;&lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>石大文档分析与模式识别实验室</title><link>https://zyclab.xyz/</link><description>Recent content on 石大文档分析与模式识别实验室</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Mon, 24 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://zyclab.xyz/index.xml" rel="self" type="application/rss+xml"/><item><title>刘子昂</title><link>https://zyclab.xyz/members/liuziang/</link><pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate><guid>https://zyclab.xyz/members/liuziang/</guid><description>&lt;h4 id="研究领域">研究领域&lt;/h4>
+&lt;p>基于多语言的语音识别与机器翻译&lt;/p></description></item><item><title>张宜驰</title><link>https://zyclab.xyz/members/zhangyichi/</link><pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate><guid>https://zyclab.xyz/members/zhangyichi/</guid><description>&lt;h4 id="研究领域">研究领域&lt;/h4>
+&lt;p>基于图神经网络的签名鉴定&lt;/p></description></item><item><title>张鸣建</title><link>https://zyclab.xyz/members/zhangmingjian/</link><pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate><guid>https://zyclab.xyz/members/zhangmingjian/</guid><description>&lt;h4 id="研究领域">研究领域&lt;/h4>
+&lt;p>离线手写签名生成&lt;/p></description></item><item><title>张齐悦</title><link>https://zyclab.xyz/members/zhangqiyue/</link><pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate><guid>https://zyclab.xyz/members/zhangqiyue/</guid><description>&lt;h4 id="研究领域">研究领域&lt;/h4>
+&lt;p>LLM的文献知识挖掘与推荐&lt;/p></description></item><item><title>徐圣杰</title><link>https://zyclab.xyz/members/xushengjie/</link><pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate><guid>https://zyclab.xyz/members/xushengjie/</guid><description>&lt;h4 id="研究领域">研究领域&lt;/h4>
+&lt;p>遥感图像变化检测&lt;/p></description></item><item><title>徐绍俊</title><link>https://zyclab.xyz/members/xushaojun/</link><pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate><guid>https://zyclab.xyz/members/xushaojun/</guid><description>&lt;h4 id="研究领域">研究领域&lt;/h4>
+&lt;p>基于视觉感知特征的纹理图像检索&lt;/p></description></item><item><title>朱起峰</title><link>https://zyclab.xyz/members/zhuqifeng/</link><pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate><guid>https://zyclab.xyz/members/zhuqifeng/</guid><description>&lt;h4 id="研究领域">研究领域&lt;/h4>
+&lt;p>离线手写签名鉴定&lt;/p></description></item><item><title>李英伦</title><link>https://zyclab.xyz/members/liyinglun/</link><pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate><guid>https://zyclab.xyz/members/liyinglun/</guid><description>&lt;h4 id="研究领域">研究领域&lt;/h4>
+&lt;p>基于图书封面的推荐系统&lt;/p></description></item><item><title>杨意飞</title><link>https://zyclab.xyz/members/yangyifei/</link><pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate><guid>https://zyclab.xyz/members/yangyifei/</guid><description>&lt;h4 id="研究领域">研究领域&lt;/h4>
+&lt;p>图神经网络及其应用&lt;/p></description></item><item><title>武达</title><link>https://zyclab.xyz/members/wuda/</link><pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate><guid>https://zyclab.xyz/members/wuda/</guid><description>&lt;h4 id="研究领域">研究领域&lt;/h4>
+&lt;p>遥感图像植被要素变化检测&lt;/p></description></item><item><title>王澎</title><link>https://zyclab.xyz/members/wangpeng/</link><pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate><guid>https://zyclab.xyz/members/wangpeng/</guid><description>&lt;h4 id="研究领域">研究领域&lt;/h4>
+&lt;p>多模态卫星遥感影像变化检测&lt;/p></description></item><item><title>白淏</title><link>https://zyclab.xyz/members/baihao/</link><pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate><guid>https://zyclab.xyz/members/baihao/</guid><description>&lt;h4 id="研究领域">研究领域&lt;/h4>
+&lt;p>遥感图像中建筑要素变化检测&lt;/p></description></item><item><title>秦乃乾</title><link>https://zyclab.xyz/members/qinnaiqian/</link><pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate><guid>https://zyclab.xyz/members/qinnaiqian/</guid><description>&lt;h4 id="研究领域">研究领域&lt;/h4>
+&lt;p>基于离线与在线信息的手写签名生成&lt;/p></description></item><item><title>贾微</title><link>https://zyclab.xyz/members/jiawei/</link><pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate><guid>https://zyclab.xyz/members/jiawei/</guid><description>&lt;h4 id="研究领域">研究领域&lt;/h4>
+&lt;p>离线手写签名鉴定系统的安全问题&lt;/p></description></item><item><title>郑礼东</title><link>https://zyclab.xyz/members/zhenglidong/</link><pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate><guid>https://zyclab.xyz/members/zhenglidong/</guid><description>&lt;h4 id="研究领域">研究领域&lt;/h4>
+&lt;p>模式识别、针对离线手写签名的特征学习&lt;/p></description></item><item><title>陈佳恩</title><link>https://zyclab.xyz/members/chenjiaen/</link><pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate><guid>https://zyclab.xyz/members/chenjiaen/</guid><description>&lt;h4 id="研究领域">研究领域&lt;/h4>
+&lt;p>多模态卫星遥感影像分割与变化检测&lt;/p></description></item><item><title>陈宇龙</title><link>https://zyclab.xyz/members/chenyulong/</link><pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate><guid>https://zyclab.xyz/members/chenyulong/</guid><description>&lt;h4 id="研究领域">研究领域&lt;/h4>
+&lt;p>手绘草图纹理特征检索&lt;/p></description></item><item><title>陈恩泽</title><link>https://zyclab.xyz/members/chenenze/</link><pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate><guid>https://zyclab.xyz/members/chenenze/</guid><description>&lt;h4 id="研究领域">研究领域&lt;/h4>
+&lt;p>基于联邦学习的手写签名鉴定、持续学习&lt;/p></description></item><item><title>陈邹权</title><link>https://zyclab.xyz/members/chenzouquan/</link><pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate><guid>https://zyclab.xyz/members/chenzouquan/</guid><description>&lt;h4 id="研究领域">研究领域&lt;/h4>
+&lt;p>联邦学习、脉冲神经网络&lt;/p></description></item><item><title>马全青</title><link>https://zyclab.xyz/members/maquanqing/</link><pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate><guid>https://zyclab.xyz/members/maquanqing/</guid><description>&lt;h4 id="研究领域">研究领域&lt;/h4>
+&lt;p>水体变化检测&lt;/p></description></item><item><title>2024 13th International Conference on Computing and Pattern Recognition</title><link>https://zyclab.xyz/blog/2024/10/25/iccpr/</link><pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate><guid>https://zyclab.xyz/blog/2024/10/25/iccpr/</guid><description>&lt;p>石河子大学模式识别与机器学习实验室在 ICCPR2024 国际会议上取得重要学术成果，实验室两篇创新性论文被会议录用并作报告，展现了团队在离线签名验证领域的深入研究。硕士研究生郑礼东、朱起峰在导师郑煜辰副教授指导下，分别围绕签名局部特征建模与深度特征子空间优化展开探索。&lt;/p>
+&lt;p>郑礼东提出的签名局部特征重建模块（SLFRM）创新性地设计了局部空间特征单元（LSFU）与局部空间注意力单元（LSAU），通过动态加权机制强化签名图像中判别性局部差异的学习，解决了传统方法对细微特征捕捉不足的难题。朱起峰的研究则聚焦于深度架构中最优子空间的发现，通过随机高维投影与线性判别分析（LDA）的协同优化，实现了签名特征在任意子空间下的判别性缩放，为复杂场景下的身份认证提供了新思路。&lt;/p>
+&lt;p>会议期间，实验室成员与国内外学者就深度学习、特征表示等前沿问题展开深入交流，充分展示了团队严谨的学术态度与创新活力。此次成果不仅体现了实验室在模式识别领域的科研实力，也为后续跨模态生物特征识别研究奠定了重要基础。&lt;/p>
+&lt;hr>
+&lt;h2 id="会议发表内容">会议发表内容&lt;/h2>
+&lt;h3 id="slfrm-a-novel-signature-local-feature-reconstruction-module-for-offline-signature-verification">SLFRM: A Novel Signature Local Feature Reconstruction Module for Offline Signature Verification&lt;/h3>
+&lt;p>硕士研究生 &lt;strong>郑礼东&lt;/strong> 在会议中报告其论文 &lt;strong>《SLFRM: A Novel Signature Local Feature Reconstruction Module for Offline Signature Verification》&lt;/strong> 相关内容。在他的报告中提出了一种新颖的签名局部特征重建模块（SLFRM），该模块为特征图分配权重，以便捕捉并强调不同签名在局部空间区域内的细微差异。具体而言，所提出的签名局部特征重建模块由两个单元组成：局部空间特征单元（LSFU）和局部空间注意力单元（LSAU）。局部空间特征单元用于提取签名的感受野空间特征，而局部空间注意力单元则用于获取签名的感受野空间注意力图。基于上述两个单元，然后通过标准的卷积操作，生成最终的局部重建特征。因此，所提出的签名局部特征重建模块会对输入特征进行权重重新分配，将更高的权重赋予那些具有更强判别力的特征。这一策略确保了模型在特征学习阶段优先学习细微差异特征。&lt;/p>
+&lt;figure class="caption-center">&lt;img src="https://zyclab.xyz/img/posts/ICCPR2024/lidong.png"
+ alt="参会人员" width="60%">&lt;figcaption>
+ &lt;h4>郑礼东&lt;/h4>&lt;p>参会人员&lt;/p>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;h3 id="discovering-optimal-subspaces-in-deep-architectures-for-offline-signature-verification">Discovering Optimal Subspaces in Deep Architectures for Offline Signature Verification&lt;/h3>
+&lt;p>硕士研究生 &lt;strong>朱起峰&lt;/strong> 在会议中报告其论文 &lt;strong>《Discovering Optimal Subspaces in Deep Architectures for Offline Signature Verification》&lt;/strong> 相关内容。在他的报告中提出了一种新颖的框架，该框架通过拉伸和降维深度特征来控制特征的维度，以获取最佳特征。具体来说，深度特征可以通过一个高维投影矩阵进行拉伸，该矩阵的元素是从标准正态分布中随机采样得到的，以此获得更具判别性的表示，然后进一步通过线性判别分析（LDA）进行降维，从而更有效地捕捉不同签名者之间的细微差异。通过这种方式，所学习到的特征可以被缩放至任何最优子空间。&lt;/p>
+&lt;figure class="caption-center">&lt;img src="https://zyclab.xyz/img/posts/ICCPR2024/qifeng.jpg"
+ alt="参会人员" width="60%">&lt;figcaption>
+ &lt;h4>朱起峰&lt;/h4>&lt;p>参会人员&lt;/p>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;h2 id="会议收获">会议收获&lt;/h2>
+&lt;p>在参会过程中实验室参会人员积极与其他参会人员交流，充分展现了石河子大学模式识别与机器学习实验室的优良学风和学术氛围。&lt;/p></description></item><item><title>研究方向</title><link>https://zyclab.xyz/research/</link><pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate><guid>https://zyclab.xyz/research/</guid><description>&lt;h2 id="一模式识别与机器学习">一、模式识别与机器学习&lt;/h2>
+&lt;h3 id="1机器学习与深度学习基础理论">1.机器学习与深度学习基础理论&lt;/h3>
+&lt;p>机器学习是人工智能的核心分支，通过从数据中自动学习规律和模式，使计算机无需显式编程即可完成预测或决策任务。其核心方法包括监督学习（利用标注数据训练模型，如分类、回归）、无监督学习（挖掘无标签数据的结构，如聚类、降维）和强化学习（通过与环境的交互优化决策策略）。关键理论涵盖损失函数优化、偏差-方差权衡以及防止过拟合的正则化技术。深度学习作为机器学习的子领域，基于多层神经网络实现复杂特征的层次化自动提取，通过反向传播算法优化参数，擅长处理图像、文本等非结构化数据，但依赖大量数据与计算资源。两者共同推动人工智能在图像识别、自然语言处理等领域的突破。&lt;/p>
+&lt;h3 id="2ai-for-science">2.AI for Science&lt;/h3>
+&lt;p>AI for Science 是人工智能与自然科学深度融合的新兴领域，通过机器学习、深度学习等技术加速科学发现与复杂问题求解。其在生物医学（如AlphaFold预测蛋白质结构）、材料设计（新型分子/材料生成）、气候模拟、量子计算等领域展现突破性潜力：AI能高效处理海量实验数据、挖掘隐藏规律，辅助科学家优化实验路径、模拟复杂系统，甚至超越传统方法的效率边界。例如，深度生成模型加速药物筛选，强化学习优化能源系统设计。这一交叉范式正推动科研从“试错驱动”转向“数据+算法驱动”，成为破解科学难题、缩短研发周期的革命性工具。&lt;/p>
+&lt;h3 id="3小样本学习">3.小样本学习&lt;/h3>
+&lt;p>小样本学习（Few-Shot Learning）是机器学习的一种方法，旨在通过极少量标注样本（如几个到几十个样本）训练模型完成新任务，其核心在于利用先验知识（如元学习、迁移学习或数据增强）提升模型在数据稀缺场景下的泛化能力。该技术广泛应用于图像分类、自然语言处理等领域，解决传统深度学习依赖大量数据的局限性，使模型能够快速适应新类别或任务。&lt;/p>
+&lt;h2 id="二文档识别分析">二、文档识别分析&lt;/h2>
+&lt;h3 id="1场景文本分析">1.场景文本分析&lt;/h3>
+&lt;p>场景文本分析是文档识别分析的关键分支，主要针对自然场景图像中的文字进行检测、识别与理解。其挑战在于应对复杂背景干扰、多尺度字体变化、光照不均、方向扭曲及多语言混杂等问题，需结合深度学习模型（如CRNN、EAST、Transformer）实现端到端的文本定位与内容解析。该技术广泛应用于自动驾驶路标识别、商品包装信息提取、智能安防监控及社交媒体图像分析等领域，通过跨模态融合提升对场景上下文语义的理解能力。&lt;/p>
+&lt;h3 id="2古文档分析">2.古文档分析&lt;/h3>
+&lt;p>古文档分析是文档识别分析的重要分支，主要针对历史文献、古籍手稿等文化遗产进行数字化处理与内容解析。其核心通过高精度扫描、多光谱成像等技术还原褪色或破损文本，结合光学字符识别（OCR）与人工智能算法识别异体字、古文字及特殊符号，同时分析纸张材质、墨迹成分、装帧痕迹等物理特征，辅助破损检测和年代鉴定。该技术不仅实现文字内容的数字化转译，还能挖掘文献的版本源流、作者笔迹特征及历史背景信息，为学术研究、古籍修复和文化遗产保护提供跨学科支撑，兼顾文物保存与知识传承的双重价值。&lt;/p>
+&lt;h3 id="3手写文本分析">3.手写文本分析&lt;/h3>
+&lt;p>手写文本分析是文档识别分析的关键领域，专注于对个性化笔迹内容的自动化识别与理解。该技术通过深度学习、模式识别等方法处理手写体字符的多样性（如连笔、潦草字迹），结合上下文语义及书写结构特征提升识别精度。除文字转译外，还可分析笔迹风格、书写压力等动态信息，用于身份验证或笔迹鉴定。其应用涵盖历史手稿数字化、教育作业批改、医疗处方解析及法律文件处理等场景，需兼顾复杂书写习惯的泛化能力与隐私保护要求，助力非结构化手写信息的高效利用与智能管理。&lt;/p>
+&lt;h2 id="三手写签名鉴定">三、手写签名鉴定&lt;/h2>
+&lt;h3 id="1手写签名特征提取生成鉴定">1.手写签名特征提取、生成、鉴定&lt;/h3>
+&lt;p>手写签名鉴定通过特征提取、特征生成和鉴定分析三个阶段实现：首先从签名图像中提取几何结构、笔画动态（如运笔速度、压力变化）及局部细节（如连笔特征）等静态与动态特征；其次通过特征降维、标准化或深度学习生成高区分度的特征向量；最后利用模式匹配（如动态时间规整）、统计模型或神经网络计算待测签名与参考样本的相似度，综合判定签名真伪，兼顾个体书写习惯的独特性与伪造特征的异常性。&lt;/p>
+&lt;h3 id="2多场景下手写签名分析">2.多场景下手写签名分析&lt;/h3>
+&lt;p>手写签名多场景分析需针对不同应用环境（如纸质文档、电子屏签、移动设备等）及签名条件（静态图像、动态笔压轨迹、多时段样本等）进行适应性处理：在静态场景中侧重笔形结构、墨迹分布及局部形变特征，结合图像增强技术消除光照、介质干扰；动态场景则利用时序信息（运笔速度、加速度、压力曲线）构建行为生物特征，并通过跨模态融合提升鲁棒性；同时引入迁移学习应对跨设备数据差异，结合上下文信息（如签名用途、书写姿势）建立分层鉴别模型，有效区分自然变异与伪造痕迹，确保司法文书、金融合约等不同场景下的鉴定可靠性。&lt;/p>
+&lt;h2 id="四医学图像处理">四、医学图像处理&lt;/h2>
+&lt;h3 id="1医学图像分割与分类方法">1.医学图像分割与分类方法&lt;/h3>
+&lt;p>医学图像分割与分类是医学图像处理中的核心任务，旨在精准定位解剖结构或病灶区域（分割）并识别其病理类型（分类）。传统分割方法包括阈值法、区域生长和活动轮廓模型，而分类多依赖特征提取与机器学习（如SVM、随机森林）。随着深度学习发展，U-Net及其变体通过编码-解码结构和跳跃连接在分割中表现优异；分类任务则广泛采用卷积神经网络（CNN）、迁移学习及Vision Transformer（ViT）等模型，结合数据增强和弱监督学习缓解医学数据稀缺问题。当前研究多关注多模态融合、3D分割网络及联合分割分类的端到端模型，以提升临床辅助诊断的准确性和鲁棒性，但小样本标注、类别不平衡和模型可解释性仍是重要挑战。&lt;/p>
+&lt;h3 id="2样本不平衡下的学习问题">2.样本不平衡下的学习问题&lt;/h3>
+&lt;p>医学图像处理中的样本不平衡学习问题指数据集中不同类别（如正常与病变样本）的样本数量差异显著，导致模型训练时倾向于预测多数类，严重影响分类或分割性能。医学场景中，罕见病或早期病灶样本稀缺是主要诱因。传统方法包括过采样、欠采样或代价敏感学习（调整损失函数权重），但医学图像的高维特性可能引发过采样噪声或信息丢失。深度学习中，焦点损失（Focal Loss）、基于生成对抗网络（GAN）的数据增强、以及结合对比学习或课程学习的策略被广泛探索，以强化模型对少数类的特征捕捉。此外，迁移学习、元学习及自监督预训练可缓解数据匮乏问题。当前挑战在于平衡数据合成真实性、模型泛化性及小样本下的类内差异，同时需结合领域知识优化样本利用效率。&lt;/p>
+&lt;h2 id="五数据挖掘与生物信息学">五、数据挖掘与生物信息学&lt;/h2>
+&lt;h3 id="1基于图神经网络的蛋白质结构预测">1.基于图神经网络的蛋白质结构预测&lt;/h3>
+&lt;p>在生物信息学领域，基于图神经网络（GNN）的蛋白质结构预测通过将蛋白质建模为图结构（节点代表氨基酸残基，边表示残基间的相互作用或空间邻近关系），结合数据挖掘技术从大规模蛋白质序列和结构数据库中提取特征，自动学习蛋白质折叠规律。GNN能够有效捕捉蛋白质局部和全局的拓扑特征，并通过聚合邻域信息预测残基间的距离或三维坐标，显著提升了结构预测精度。这类方法不仅加速了蛋白质功能解析，还为药物靶点设计和疾病机制研究提供了高效的计算工具。&lt;/p>
+&lt;h3 id="2药物预测与发现">2.药物预测与发现&lt;/h3>
+&lt;p>在生物信息学与数据挖掘结合的药物预测与发现中，研究者通过整合基因组、蛋白质组、代谢组等多源异构数据，结合化学数据库与生物活性信息，利用机器学习（如深度学习、图神经网络）分析药物-靶点相互作用、预测化合物药效及毒性。数据挖掘技术能从海量文献和实验数据中提取潜在药物候选分子，并通过虚拟筛选加速候选药物优化。这类方法显著缩短了传统药物研发周期，支持药物重定位（老药新用）和新型化合物设计，为精准医疗和抗病治疗提供了高效、低成本的解决方案。&lt;/p>
+&lt;h3 id="3相互作用分析">3.相互作用分析&lt;/h3>
+&lt;p>在生物信息学中，数据挖掘驱动的相互作用分析聚焦于揭示生物分子（如蛋白质-蛋白质、药物-靶点、基因-调控因子）间的功能关联网络。通过整合多组学数据（基因组、转录组、蛋白质组）和公共数据库（如STRING、KEGG），结合图网络建模、随机游走算法或深度学习模型（如GNN、注意力机制），系统挖掘隐含的相互作用模式及动态调控机制。这类分析可识别疾病相关通路、预测潜在药物作用靶点或毒性反应，为理解复杂生物系统、优化治疗方案及多靶点药物开发提供数据驱动的理论支持。&lt;/p>
+&lt;h3 id="4菌群分布与挖掘">4.菌群分布与挖掘&lt;/h3>
+&lt;p>在生物信息学中，基于数据挖掘的菌群分布研究通过整合宏基因组、代谢组及环境变量等多源数据，利用高通量测序技术解析微生物群落的组成与动态变化。借助机器学习（如随机森林、网络分析）和统计模型（如α/β多样性分析、LefSe差异检验），挖掘菌群结构与环境、宿主表型（如疾病、营养状态）的关联规律，识别关键功能物种或共生网络。这类方法不仅揭示了肠道、土壤等复杂生态系统中微生物的互作机制，还支持精准医学中的菌群干预策略，助力疾病诊断、生态修复及农业微生物资源开发。&lt;/p>
+&lt;h3 id="5社团检测与复杂网络">5.社团检测与复杂网络&lt;/h3>
+&lt;p>在生物信息学中，基于数据挖掘的社团检测与复杂网络分析聚焦于识别生物系统（如蛋白质互作网络、基因共表达网络或微生物共生网络）中的功能模块化结构。通过图论算法（如Louvain、模块度优化）和机器学习模型，结合多组学数据与公共数据库（如STRING、KEGG），挖掘网络中紧密连接的子群（社团），揭示其与特定生物功能、疾病通路或环境适应性的关联。这类分析可识别关键枢纽节点、预测未知功能模块，并解析网络动态特性（如鲁棒性、层级性），为疾病机制研究、多靶点药物设计及合成生物学中的网络重构提供理论依据，助力复杂生物系统的模块化解析与精准调控。&lt;/p>
+&lt;h3 id="6知识图谱">6.知识图谱&lt;/h3>
+&lt;p>在生物信息学中，基于数据挖掘的知识图谱通过整合多源异构数据（如基因、蛋白质、疾病、药物及文献信息），构建结构化的生物医学实体关系网络。利用自然语言处理（NLP）从文献中抽取关联规则，结合图数据库（如Neo4j）和图嵌入技术（如TransE、GNN），系统表征生物分子相互作用、疾病-基因关联及药物作用机制。知识图谱支持语义推理与跨领域关联挖掘，可加速药物重定位、疾病靶点预测及多组学数据融合，为精准医疗、复杂疾病机理解析及跨学科研究提供可解释的智能决策框架。&lt;/p>
+&lt;h2 id="六遥感图像智能解译">六、遥感图像智能解译&lt;/h2>
+&lt;h3 id="1遥感影像目标检测">1.遥感影像目标检测&lt;/h3>
+&lt;p>遥感影像目标检测是遥感图像智能解译的核心任务之一，旨在从高分辨率遥感影像中自动识别并定位特定地物目标（如建筑物、车辆、船舶、飞机等）。其通过深度学习模型（如卷积神经网络、Transformer等）对图像进行特征提取与多尺度分析，克服遥感影像背景复杂、目标尺度多样、方向任意性强等挑战，在军事侦察、灾害监测、城市规划等领域具有重要应用。当前研究聚焦于小样本学习、旋转不变性建模、多源数据融合等方向，结合注意力机制、自监督学习等技术提升检测精度与泛化能力。&lt;/p>
+&lt;h3 id="2图像分割">2.图像分割&lt;/h3>
+&lt;p>遥感影像图像分割是遥感智能解译的关键技术之一，旨在通过像素级分类将影像划分为具有语义一致性的区域（如植被、水体、道路、建筑物等）。针对遥感数据高分辨率、多光谱、地物尺度差异大等特点，常采用深度学习方法（如U-Net、DeepLab等），结合多尺度特征融合与上下文建模，解决地物边界模糊、类内差异显著等挑战。该技术在土地利用分类、地表覆盖制图、灾害损毁评估等领域广泛应用，当前研究重点包括弱监督分割、多模态数据协同、轻量化模型设计等方向，并借助对比学习、域适应等技术提升复杂场景下的分割鲁棒性。&lt;/p>
+&lt;h3 id="3变化检测">3.变化检测&lt;/h3>
+&lt;p>遥感影像变化检测是遥感图像智能解译的重要任务之一，旨在通过分析多时相遥感影像（如不同时间获取的卫星或航空影像），自动识别地表覆盖或地物状态的动态变化（如建筑新建、植被退化、灾害损毁等）。其核心挑战在于克服影像间光照差异、季节变化、配准误差等干扰，准确区分真实变化与伪变化。传统方法依赖像素或对象级差异分析，而深度学习方法（如孪生网络、时序Transformer）通过时空特征建模与上下文感知提升检测精度，广泛应用于城市扩张监测、环境评估、应急响应等领域。当前研究聚焦于弱监督/无监督学习、多源数据融合、域适应、大模型知识迁移等方向，结合注意力机制与对比学习技术，优化复杂场景下的变化识别鲁棒性与效率。&lt;/p>
+&lt;h2 id="七语音识别分析">七、语音识别分析&lt;/h2>
+&lt;h3 id="1多语种语音识别">1.多语种语音识别&lt;/h3>
+&lt;p>多语种语音识别是语音识别技术的重要分支，旨在实现对不同语言、方言及混合语音的精准识别与跨语言处理。其核心挑战在于应对不同语言在声学特征（如音素分布）、语法结构、发音习惯及口音变体上的差异性，需通过融合深度学习模型（如Transformer、端到端架构）和多任务学习策略，结合大规模多语种语料库进行联合训练，以提取跨语言共享特征并增强模型泛化能力。关键技术包括语言自适应编码、音素共享机制以及语言识别（LID）模块的动态集成，典型应用如Google的Universal Speech Model和Meta的MMS项目已实现百余种语言的识别支持。该技术对全球化智能客服、实时翻译设备和低资源语言保护具有重要意义，但低资源语言的标注数据稀缺、语码切换（code-switching）现象及方言识别精度仍是当前研究难点。&lt;/p>
+&lt;h3 id="2机器翻译">2.机器翻译&lt;/h3>
+&lt;p>语音识别中的机器翻译（Speech-to-Text Translation）是将语音识别（ASR）与机器翻译（MT）相结合的技术，旨在直接将一种语言的语音输入实时转化为另一种语言的文本或语音输出。其核心流程通常分为两步：首先通过语音识别系统将源语言语音转换为文本，再通过神经机器翻译（NMT）模型将文本翻译为目标语言；而端到端语音翻译（E2E ST）技术则尝试绕过中间文本环节，直接从语音到目标语言进行跨模态映射。关键技术挑战包括语音识别错误对翻译质量的级联影响、语言间语法与语义结构的差异对齐，以及低资源语言对的语料稀缺问题。当前研究聚焦于多模态联合训练、跨语言预训练模型（如mBART、Whisper）和动态自适应解码，以提升翻译鲁棒性。典型应用涵盖实时会议翻译（如Zoom AI同传）、跨国客服系统及便携式翻译设备（如讯飞翻译机），但口音适应性、语境歧义消除和实时延迟优化仍是亟待突破的难点。&lt;/p>
+&lt;h3 id="3语义分析">3.语义分析&lt;/h3>
+&lt;p>语音识别中的语义分析是结合自然语言处理（NLP）技术，从语音转写的文本中提取深层含义、意图及上下文关联的关键环节。其核心在于突破表层词汇匹配，通过上下文建模、实体识别、情感分析和意图分类等任务，解决语言歧义、省略及多义词等挑战。技术层面常依赖预训练语言模型（如BERT、GPT）、图神经网络（GNN）或知识图谱融合，以增强对领域术语、口语化表达及复杂逻辑关系的理解。典型应用包括智能客服（如意图驱动的对话系统）、语音助手指令解析（如Siri、Alexa）及实时会议摘要生成。当前难点集中于跨模态语义对齐（如语音语调对情感的影响）、低资源场景下的迁移学习，以及动态对话场景中的多轮推理优化，需结合强化学习和增量学习进一步提升鲁棒性与实时性。&lt;/p>
+&lt;h2 id="八隐私保护">八、隐私保护&lt;/h2>
+&lt;h3 id="1联邦学习">1.联邦学习&lt;/h3>
+&lt;p>联邦学习（Federated Learning）是一种分布式机器学习技术，旨在保护数据隐私的前提下实现多方协作建模。其核心思想是数据不离开本地，各参与方在本地训练模型后仅上传模型参数（如梯度更新）至中心服务器进行聚合，而非直接共享原始数据。这种方式有效解决了数据孤岛问题，同时通过加密技术、差分隐私或安全多方计算等手段进一步降低隐私泄露风险，广泛应用于医疗、金融等对数据敏感性要求高的领域。&lt;/p>
+&lt;h3 id="2对抗攻击与防御">2.对抗攻击与防御&lt;/h3>
+&lt;p>在隐私保护中，对抗攻击与防御聚焦于防止恶意方通过模型输出来逆向推断敏感数据或破坏隐私保护机制。对抗攻击可能通过生成对抗样本（如微小扰动）误导模型泄露个体数据特征（如成员推断攻击、属性推断攻击），或利用模型梯度反推原始数据。防御手段则包括对抗训练（增强模型对攻击样本的鲁棒性）、梯度扰动或剪裁（如差分隐私技术）、加密中间参数，以及设计隐私增强的模型结构（如生成对抗网络用于数据脱敏）。这一领域平衡模型可用性与隐私安全，广泛应用于人脸识别、医疗数据分析、手写签名鉴定等敏感场景。&lt;/p></description></item><item><title>视觉与学习青年学者研讨会(VALSE)</title><link>https://zyclab.xyz/blog/2024/05/05/valse/</link><pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate><guid>https://zyclab.xyz/blog/2024/05/05/valse/</guid><description>&lt;p>本次研讨会聚焦人工智能前沿领域，围绕&amp;quot;大模型赋能、多模态融合、技术落地&amp;quot;三大主线展开，系统呈现了视觉智能领域的最新进展与交叉应用。在技术理论层面，重点探讨了视觉大模型的构建与迁移（如高效网络架构、异构联邦学习）、多模态感知与生成（视频生成、3D高斯泼溅、神经形态相机）、具身智能系统（世界模型、自动驾驶决策）等核心技术突破，特别强调大模型与因果推理、价值对齐的理论创新。应用层面覆盖智慧医疗、遥感图像智能解译、海洋探测、艺术创作等垂直领域，突显AI技术向产业赋能的趋势。整体内容既包含自动驾驶、医疗影像等成熟应用场景，也前瞻性布局神经形态相机等新兴领域，呈现了AI技术从基础理论突破到产业生态构建的全链条创新图景。
+&lt;figure class="caption-center">&lt;img src="https://zyclab.xyz/img/posts/VALSE/lidong.png"
+ alt="参会人员" width="60%">&lt;figcaption>
+ &lt;h4>郑礼东&lt;/h4>&lt;p>参会人员&lt;/p>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;figure class="caption-center">&lt;img src="https://zyclab.xyz/img/posts/VALSE/yichi.png"
+ alt="参会人员" width="60%">&lt;figcaption>
+ &lt;h4>张宜驰&lt;/h4>&lt;p>参会人员&lt;/p>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;figure class="caption-center">&lt;img src="https://zyclab.xyz/img/posts/VALSE/mingjian.png"
+ alt="参会人员" width="60%">&lt;figcaption>
+ &lt;h4>张鸣建&lt;/h4>&lt;p>参会人员&lt;/p>
+ &lt;/figcaption>
+&lt;/figure>
+&lt;/p></description></item><item><title>第七届亚洲人工智能技术大会</title><link>https://zyclab.xyz/blog/2023/11/10/acait/</link><pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate><guid>https://zyclab.xyz/blog/2023/11/10/acait/</guid><description>&lt;p>本实验室陈恩泽和武达于2023年11月10日至12日于浙江衢州参加由中国人工智能学会主办的第七届亚洲人工智能技术大会。大会以“智能引领、创新未来”为主题，由中国工程院院士领衔，300余位相关领域内的专家学者线上线下参会，共同开启一场高规格、高层次的人工智能学术会议。&lt;/p></description></item><item><title>郑煜辰</title><link>https://zyclab.xyz/members/zyc/</link><pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate><guid>https://zyclab.xyz/members/zyc/</guid><description/></item><item><title>Contact</title><link>https://zyclab.xyz/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://zyclab.xyz/contact/</guid><description>&lt;h1 id="we-are-here-to-help-you">We are here to help you&lt;/h1>
+&lt;p>Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.&lt;/p>
+&lt;p>Please feel free to contact us, our customer service center is working for you 24/7.&lt;/p></description></item><item><title>FAQ</title><link>https://zyclab.xyz/faq/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://zyclab.xyz/faq/</guid><description>&lt;p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.&lt;/p>
+&lt;h2 id="1-what-to-do-if-i-have-still-not-received-the-order">1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER?&lt;/h2>
+&lt;p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.&lt;/p></description></item></channel></rss>
