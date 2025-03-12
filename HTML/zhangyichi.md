@@ -3,12 +3,12 @@
     <div>
         <span>
             <img src="assets/phone-solid.svg" width="18px">
-            15703399502
+            15xxxxxxx02
         </span>
         ·
         <span>
             <img src="assets/envelope-solid.svg" width="18px">
-            360689565@qq.com
+            zhangyichics1@outlook.com
         </span>
     </div>
 </center>
